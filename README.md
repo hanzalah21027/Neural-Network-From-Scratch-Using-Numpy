@@ -1,6 +1,6 @@
 # Neural Network From Scratch Using Numpy
 
-Please refer to report file [Report.pdf]() for detailed explanation on the architecture, training regime, and results of the models created.
+Please refer to report file [Report.pdf](https://github.com/hanzalah21027/Neural-Network-From-Scratch-Using-Numpy/blob/main/Report.pdf) for detailed explanation on the architecture, training regime, and results of the models created.
 
 ## Filename: -
 
